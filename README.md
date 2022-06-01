@@ -1,9 +1,9 @@
 # DMN: Pure vs. Mixed Pathology
-- Research type: hypothesis generation (exploratory)
+- Research type: [hypothesis generation (data exploration)](https://r4ds.had.co.nz/model-intro.html?q=hyp#hypothesis-generation-vs.-hypothesis-confirmation)
 - Variable (column) identification
-  - Full name (with label)
-  - Name (no label)
-  - Description (for humans)
+  - Full name (with label): e.g. PL_CMT
+  - Name (no label): e.g. CMT
+  - Description (for humans): e.g. pathology comment
 - Observational unit
   - Patient
   - Follow-up visit
