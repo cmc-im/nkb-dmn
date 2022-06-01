@@ -1,4 +1,5 @@
 # DMN: Pure vs. Mixed Pathology
+- Research type: hypothesis generation (exploratory)
 - Variable (column) identification
   - Full name (with label)
   - Name (no label)
