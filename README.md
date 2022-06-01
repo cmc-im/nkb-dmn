@@ -7,6 +7,8 @@
   - Comment
   - Diagnosis
 - Outcomes
-  - eGFR
-  - RRT?
-  - UPCR
+  - Kidney Function
+    - eGFR
+    - RRT?
+  - Microscopic Hematuria
+    - UPCR
