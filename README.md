@@ -4,6 +4,9 @@
   - Full name (with label)
   - Name (no label)
   - Description (for humans)
+- Observational unit
+  - Patient
+  - Follow-up visit
 - Group by: pathological description of kidney biopsy
   - Comment
   - Diagnosis
