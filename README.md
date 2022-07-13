@@ -1,4 +1,4 @@
-# DMN Pathology vs. Kidney Function
+# Diabetic Nephropathy (DMN) Pathology vs. Kidney Function
 - Research type: [hypothesis generation](https://r4ds.had.co.nz/model-intro.html#hypothesis-generation-vs.-hypothesis-confirmation)
 - Data source: Catholic Medical Center (CMC) Nephrology (NEP) Native Kidney Biopsy (NKB) Registry
 - Tables
