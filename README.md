@@ -17,7 +17,7 @@
 - Group by: pathological description of kidney biopsy
   - Comment
   - Diagnosis
-- File structure
+- Tables
   - demographic
   - clinical
   - laboratory
