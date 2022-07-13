@@ -18,9 +18,11 @@
   - Comment
   - Diagnosis
 - Tables
-  - demographic
-  - clinical
-  - laboratory
-  - pathology
-  - treatment
-  - codebook
+  - data
+    - demographic
+    - clinical
+    - laboratory
+    - pathology
+    - treatment
+  - meta
+    - codebook
