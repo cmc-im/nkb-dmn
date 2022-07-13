@@ -1,5 +1,5 @@
 # DMN Pathology vs. Kidney Function
-- Research type: [hypothesis generation (data exploration)](https://r4ds.had.co.nz/model-intro.html#hypothesis-generation-vs.-hypothesis-confirmation)
+- Research type: [hypothesis generation](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1740-9713.01369) [(data exploration)](https://r4ds.had.co.nz/model-intro.html#hypothesis-generation-vs.-hypothesis-confirmation)
 - Data source: Catholic Medical Center (CMC) Nephrology (NEP) Native Kidney Biopsy (NKB) Registry
 - Tables
   - data
