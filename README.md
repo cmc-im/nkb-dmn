@@ -5,18 +5,18 @@
   - Full name (with label): e.g. PL_CMT
   - Name (no label): e.g. CMT
   - Description (for humans): e.g. pathology comment
+- Outcome
+  - Kidney Function
+    - eGFR
+    - ?RRT
+  - Microscopic Hematuria
+    - UPCR
 - Observational unit
   - Patient
   - Follow-up visit
 - Group by: pathological description of kidney biopsy
   - Comment
   - Diagnosis
-- Outcomes
-  - Kidney Function
-    - eGFR
-    - ?RRT
-  - Microscopic Hematuria
-    - UPCR
 - File structure
   - data
     - baseline
