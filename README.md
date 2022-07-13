@@ -23,7 +23,4 @@
 - Observational unit
   - Patient
   - Follow-up visit
-- Variable (column) identification
-  - Full name (with label): e.g. PL_CMT
-  - Name (no label): e.g. CMT
-  - Description (for humans): e.g. pathology comment
+  
