@@ -18,21 +18,9 @@
   - Comment
   - Diagnosis
 - File structure
-  - data
-    - baseline
-      - demographic
-      - clinical
-      - laboratory
-      - pathology
-      - treatment
-    - fu1
-      - clinical
-      - laboratory
-      - pathology
-    - ...
-    - fu10
-      - clinical
-      - laboratory
-      - pathology
-  - meta
-    - code-book
+  - demographic
+  - clinical
+  - laboratory
+  - pathology
+  - treatment
+  - codebook
