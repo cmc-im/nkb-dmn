@@ -18,7 +18,7 @@
     - ?RRT
   - Microscopic Hematuria
     - UPCR
-- Group by: pathological description of kidney biopsy
+- Group by: pathological description of NKB of diabetic nephropathy (DMN) patients
   - Comment
   - Diagnosis
 - Observational unit
