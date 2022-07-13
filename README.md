@@ -24,5 +24,6 @@
     - laboratory
     - pathology
     - treatment
+    - followup
   - meta
     - codebook
