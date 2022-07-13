@@ -1,6 +1,16 @@
 # DMN: Pure vs. Mixed Pathology
 - Research type: [hypothesis generation (data exploration)](https://r4ds.had.co.nz/model-intro.html#hypothesis-generation-vs.-hypothesis-confirmation)
 - Data source: Catholic Medical Center (CMC) Nephrology (NEP) Native Kideney Biopsy (NKB) Registry
+- Tables
+  - data
+    - demographic
+    - clinical
+    - laboratory
+    - pathology
+    - treatment
+    - followup
+  - meta
+    - codebook
 - Variable (column) identification
   - Full name (with label): e.g. PL_CMT
   - Name (no label): e.g. CMT
@@ -17,13 +27,3 @@
 - Group by: pathological description of kidney biopsy
   - Comment
   - Diagnosis
-- Tables
-  - data
-    - demographic
-    - clinical
-    - laboratory
-    - pathology
-    - treatment
-    - followup
-  - meta
-    - codebook
