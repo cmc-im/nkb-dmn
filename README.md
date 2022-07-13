@@ -1,4 +1,4 @@
-# DMN: Pure vs. Mixed Pathology
+# DMN Pathology vs. Kidney Function
 - Research type: [hypothesis generation (data exploration)](https://r4ds.had.co.nz/model-intro.html#hypothesis-generation-vs.-hypothesis-confirmation)
 - Data source: Catholic Medical Center (CMC) Nephrology (NEP) Native Kidney Biopsy (NKB) Registry
 - Tables
